@@ -8,10 +8,15 @@ edit_uri: edit/main/
 theme:
   name: material
   language: zh
+  favicon: assets/images/market-route.png
+  icon:
+    logo: material/rocket-launch
   features:
     - navigation.instant
     - navigation.sections
     - navigation.top
+    - navigation.tabs
+    - navigation.indexes
     - search.highlight
     - search.suggest
     - content.action.edit
@@ -37,6 +42,7 @@ plugins:
         - en
 
 markdown_extensions:
+  - abbr
   - admonition
   - attr_list
   - def_list
@@ -48,6 +54,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - 首页: index.md

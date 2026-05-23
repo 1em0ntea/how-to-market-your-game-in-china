@@ -1,66 +1,76 @@
-# How To Market Your Game In China
+---
+hide:
+  - navigation
+  - toc
+---
 
-一个面向独立游戏和小团队的中文开源手册：如何理解、验证、进入和持续经营中国玩家市场。
+<section class="hero">
+  <div class="hero__copy">
+    <p class="hero__eyebrow">Independent Game Marketing Handbook</p>
+    <h1>How To Market Your Game In China</h1>
+    <p class="hero__lead">一个面向独立游戏和小团队的中文开源手册：理解中国玩家、验证卖点、组织渠道、沉淀反馈，并把中文流量真正接到 Steam、Demo 和发售转化上。</p>
+    <div class="hero__actions">
+      <a class="md-button md-button--primary" href="research/china-market-map/">开始阅读</a>
+      <a class="md-button" href="operations/90-day-plan/">90 天计划</a>
+    </div>
+  </div>
+  <div class="hero__media">
+    <img src="assets/images/market-route.png" alt="China market route map">
+  </div>
+</section>
 
-> 状态：早期草案。欢迎补充案例、数据、渠道经验和踩坑记录。
+<section class="quick-grid" aria-label="Quick navigation">
+  <a class="quick-card" href="research/china-market-map/">
+    <span class="quick-card__kicker">Research</span>
+    <strong>中国市场地图</strong>
+    <span>先看渠道、玩家语境和目标拆分。</span>
+  </a>
+  <a class="quick-card" href="platforms/steam/">
+    <span class="quick-card__kicker">Platform</span>
+    <strong>Steam 中文区营销</strong>
+    <span>让社媒流量能被页面和 Demo 承接。</span>
+  </a>
+  <a class="quick-card" href="channels/bilibili/">
+    <span class="quick-card__kicker">Channel</span>
+    <strong>B 站与内容渠道</strong>
+    <span>用视频解释玩法、建立信任和反馈循环。</span>
+  </a>
+  <a class="quick-card" href="checklists/steam-page-checklist/">
+    <span class="quick-card__kicker">Checklist</span>
+    <strong>发布前自查</strong>
+    <span>商店页、本地化、Demo 和活动检查表。</span>
+  </a>
+</section>
 
-## 这个仓库解决什么问题
+## 这个手册适合谁
 
-英文独立游戏营销资料很多，但中国市场常常散落在 B 站视频、开发者群、发行商文章、平台文档和个人经验里。本仓库希望把这些内容整理成可引用、可更新、可执行的资料库。
+<div class="audience-grid">
+  <div>
+    <h3>正在做 Steam 游戏</h3>
+    <p>判断中文玩家是否值得优先投入，并把愿望单、Demo、评测和发售转化串起来。</p>
+  </div>
+  <div>
+    <h3>准备中文本地化</h3>
+    <p>不只翻译文本，也检查商店页、截图、PV、字体、UI、客服和差评处理。</p>
+  </div>
+  <div>
+    <h3>想理解中国渠道</h3>
+    <p>B 站、TapTap、小红书、抖音、微博、QQ群和贴吧各自承担不同任务。</p>
+  </div>
+</div>
 
-适合：
+!!! note "核心观点"
+    中国不是一个渠道，而是一组不同语境的社区和平台。对独立游戏而言，Steam 常常仍是最现实的商业闭环；中文社媒更多承担验证、种草、反馈和再营销。
 
-- 正在做 Steam 游戏，想判断中文玩家是否值得优先投入。
-- 准备做简体中文本地化、中文社区、试玩版和愿望单增长。
-- 想了解 B 站、TapTap、小红书、抖音、微博、QQ群、贴吧等渠道怎么分工。
-- 想和中国发行商、主播、媒体、KOL 或本地化团队合作。
-- 想避开版号、合规、合同、文化表达和社区沟通里的常见坑。
+## 推荐阅读路径
 
-不适合：
+<div class="pathway">
+  <a href="research/china-market-map/"><span>01</span>理解市场地图</a>
+  <a href="operations/90-day-plan/"><span>02</span>制定 90 天计划</a>
+  <a href="platforms/steam/"><span>03</span>打磨 Steam 页面</a>
+  <a href="checklists/demo-and-festival-checklist/"><span>04</span>准备 Demo 与活动</a>
+</div>
 
-- 需要“保证爆款”的公式。
-- 需要法律意见、税务意见或合同最终审查。
-- 只想买量、不打磨产品页面、Demo、素材和社区反馈循环。
+## 参与贡献
 
-## 快速导航
-
-### 先读
-
-- [中国市场地图](research/china-market-map.md)
-- [90 天进入中国市场计划](operations/90-day-plan.md)
-- [Steam 中文区营销](platforms/steam.md)
-- [合规与风险提醒](operations/legal-and-compliance.md)
-
-### 渠道
-
-- [B 站](channels/bilibili.md)
-- [TapTap](channels/taptap.md)
-- [小红书](channels/xiaohongshu.md)
-- [抖音](channels/douyin.md)
-- [微博、贴吧、QQ群与社区](channels/community.md)
-
-### 执行模板
-
-- [Steam 商店页自查表](checklists/steam-page-checklist.md)
-- [中文本地化自查表](checklists/localization-checklist.md)
-- [Demo 与新品节检查表](checklists/demo-and-festival-checklist.md)
-- [媒体/KOL 联系模板](toolkit/outreach-email-zh.md)
-- [发行商沟通问题清单](toolkit/publisher-questions.md)
-- [案例研究模板](toolkit/case-study-template.md)
-
-### 资料
-
-- [资料索引](resources/index.md)
-- [术语表](resources/glossary.md)
-
-## 核心观点
-
-1. 中国不是一个渠道，而是一组不同语境的社区和平台。
-2. 对独立游戏而言，Steam 仍然常常是最现实的商业闭环；中文社媒更多承担验证、种草、反馈和再营销。
-3. 简体中文本地化不是“翻译完就行”，它会影响截图、PV、标签、商店文案、Demo 体验、客服和差评处理。
-4. 不要把“国内宣发”理解成到处发帖。先明确目标：愿望单、Demo 反馈、首发销量、长尾口碑、发行合作，打法会完全不同。
-5. 付费投放和达人合作可以加速，但不能替代可传播的核心卖点、清晰的商店页和稳定的社区回应。
-
-## 免责声明
-
-本仓库是经验整理，不构成法律、财务、税务或发行合同建议。涉及版号、出版、广告法、数据合规、未成年人保护、合同分成等问题时，请咨询具备资质的专业人士。
+这个仓库最需要真实、具体、可验证的经验：案例复盘、平台规则更新、渠道打法、指标模板和踩坑记录。请阅读 [贡献指南](contributing.md)。
