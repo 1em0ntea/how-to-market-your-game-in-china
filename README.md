@@ -73,11 +73,13 @@
 │   ├── channels/      # 渠道打法：B站、TapTap、小红书、抖音等
 │   ├── operations/    # 计划、合规、发行商、指标
 │   ├── platforms/     # Steam、移动平台等
-│   └── research/      # 市场地图、玩家画像、品类观察
-├── checklists/        # 可执行检查表
-├── docs/toolkit/      # 邮件、案例、发行商问题清单等模板
-├── resources/         # 外部资料、术语表
-└── case-studies/      # 案例研究
+│   ├── research/      # 市场地图、玩家画像、品类观察
+│   ├── checklists/    # 可执行检查表
+│   ├── toolkit/       # 邮件、案例、发行商问题清单等模板
+│   ├── resources/     # 外部资料、术语表
+│   └── case-studies/  # 案例研究
+├── mkdocs.yml         # MkDocs Material 站点配置
+└── requirements.txt   # 文档站构建依赖
 ```
 
 ## 如何贡献
