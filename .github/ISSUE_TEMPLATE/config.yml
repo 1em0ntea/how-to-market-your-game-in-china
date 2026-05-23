@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 讨论区
+    url: https://github.com/
+    about: 仓库创建后可把这里改成 GitHub Discussions 链接。

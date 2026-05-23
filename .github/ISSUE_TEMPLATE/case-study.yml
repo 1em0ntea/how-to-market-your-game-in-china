@@ -1,0 +1,23 @@
+name: 案例投稿
+description: 投稿一个中国市场相关的游戏营销案例
+title: "[案例] "
+labels: ["case-study"]
+body:
+  - type: input
+    id: game
+    attributes:
+      label: 游戏名
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: 案例摘要
+      description: 背景、做法、结果和复盘
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 来源
+      description: 公开链接、文章、视频或可验证信息
