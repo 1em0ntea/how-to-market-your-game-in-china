@@ -24,6 +24,10 @@
 
 ## 快速导航
 
+在线阅读：
+
+- GitHub Pages: https://1em0ntea.github.io/how-to-market-your-game-in-china/
+
 ### 先读
 
 - [中国市场地图](docs/research/china-market-map.md)
