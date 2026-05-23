@@ -45,17 +45,17 @@
 
 ### 执行模板
 
-- [Steam 商店页自查表](checklists/steam-page-checklist.md)
-- [中文本地化自查表](checklists/localization-checklist.md)
-- [Demo 与新品节检查表](checklists/demo-and-festival-checklist.md)
-- [媒体/KOL 联系模板](templates/outreach-email-zh.md)
-- [发行商沟通问题清单](templates/publisher-questions.md)
-- [案例研究模板](templates/case-study-template.md)
+- [Steam 商店页自查表](docs/checklists/steam-page-checklist.md)
+- [中文本地化自查表](docs/checklists/localization-checklist.md)
+- [Demo 与新品节检查表](docs/checklists/demo-and-festival-checklist.md)
+- [媒体/KOL 联系模板](docs/toolkit/outreach-email-zh.md)
+- [发行商沟通问题清单](docs/toolkit/publisher-questions.md)
+- [案例研究模板](docs/toolkit/case-study-template.md)
 
 ### 资料
 
-- [资料索引](resources/index.md)
-- [术语表](resources/glossary.md)
+- [资料索引](docs/resources/index.md)
+- [术语表](docs/resources/glossary.md)
 
 ## 核心观点
 
@@ -75,7 +75,7 @@
 │   ├── platforms/     # Steam、移动平台等
 │   └── research/      # 市场地图、玩家画像、品类观察
 ├── checklists/        # 可执行检查表
-├── templates/         # 邮件、案例、发行商问题清单等模板
+├── docs/toolkit/      # 邮件、案例、发行商问题清单等模板
 ├── resources/         # 外部资料、术语表
 └── case-studies/      # 案例研究
 ```

@@ -1,0 +1,79 @@
+site_name: How To Market Your Game In China
+site_description: A practical open-source handbook for marketing indie games in China.
+site_url: https://1em0ntea.github.io/how-to-market-your-game-in-china/
+repo_url: https://github.com/1em0ntea/how-to-market-your-game-in-china
+repo_name: 1em0ntea/how-to-market-your-game-in-china
+edit_uri: edit/main/
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.action.edit
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: 切换到深色模式
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到浅色模式
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - 首页: index.md
+  - 先读:
+      - 中国市场地图: research/china-market-map.md
+      - 90 天进入中国市场计划: operations/90-day-plan.md
+      - Steam 中文区营销: platforms/steam.md
+      - 合规与风险提醒: operations/legal-and-compliance.md
+  - 渠道:
+      - B 站: channels/bilibili.md
+      - TapTap: channels/taptap.md
+      - 小红书: channels/xiaohongshu.md
+      - 抖音: channels/douyin.md
+      - 微博、贴吧、QQ群与社区: channels/community.md
+  - 运营:
+      - 指标: operations/metrics.md
+      - 发行商合作: operations/publishers.md
+  - 检查表:
+      - Steam 商店页自查表: checklists/steam-page-checklist.md
+      - 中文本地化自查表: checklists/localization-checklist.md
+      - Demo 与活动检查表: checklists/demo-and-festival-checklist.md
+  - 模板:
+      - 媒体 / KOL 联系模板: toolkit/outreach-email-zh.md
+      - 发行商沟通问题清单: toolkit/publisher-questions.md
+      - 案例研究模板: toolkit/case-study-template.md
+  - 资料:
+      - 资料索引: resources/index.md
+      - 术语表: resources/glossary.md
+  - 贡献指南: contributing.md

@@ -28,4 +28,4 @@
 - 对方是否理解你的品类和目标玩家。
 - 对方是否愿意给出具体计划和预算范围。
 
-更多问题见 [发行商沟通问题清单](../../templates/publisher-questions.md)。
+更多问题见 [发行商沟通问题清单](../toolkit/publisher-questions.md)。
